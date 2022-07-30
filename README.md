@@ -1,0 +1,1 @@
+este proyecto est'a disenado para ensenar git
